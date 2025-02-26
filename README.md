@@ -12,15 +12,11 @@ O objetivo do sistema não é otimizar a eficiência administrativa e a organiza
 
 > ℹ️ Imagens do sistema em funcionamento com dados fictícios:
 
-<p align="center">
-  <img src="assets/login.png" alt="login-image" width="45%" height="370px"/>
-  <img src="assets/reserva.png" alt="reserva-image" width="45%" height="370px"/>
-</p>
+<img src="assets/login.png" alt="login-image" width="50%"/>
+<img src="assets/reserva.png" alt="reserva-image" width="50%"/>
 
-<p align="center">
-  <img src="assets/sindico.png" alt="sindico-image" width="45%" height="600px"/>
-  <img src="assets/funcionario.png" alt="funcionario-image" width="45%" height="600px"/>
-</p>
+<img src="assets/sindico.png" alt="sindico-image" width="50%"/>
+<img src="assets/funcionario.png" alt="funcionario-image" width="50%"/>
 
 ## 📌 Funcionalidades Principais
 - Registro e gerenciamento de condôminos, visitantes e funcionários
