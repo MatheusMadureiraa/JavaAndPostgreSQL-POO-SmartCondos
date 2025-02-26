@@ -1,4 +1,4 @@
-<img src="assets/SmartCondos-logo.png" alt="repository-logo" width="800" align="center">
+<img src="assets/SmartCondos-logo.png" alt="repository-logo" width="100%">
 
 ---
 
