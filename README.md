@@ -10,14 +10,15 @@ O **SmartCondos** é um sistema desenvolvido para facilitar a administração de
 Ele centraliza informações importantes, eliminando métodos tradicionais como livros de ocorrências e registros manuais. 
 O objetivo do sistema não é otimizar a eficiência administrativa e a organização do condomínio.
 
-| Imagens do sistema em funcionamento com dados fictícios:
+> ℹ️ Imagens do sistema em funcionamento com dados fictícios:
+
 <p align="center">
   <img src="assets/login.png" alt="login-image" width="45%" />
-  <img src="assets/sindico.png" alt="sindico-image" width="45%" />
+  <img src="assets/reserva.png" alt="reserva-image" width="45%" />
 </p>
 
 <p align="center">
-  <img src="assets/reserva.png" alt="reserva-image" width="45%" />
+  <img src="assets/sindico.png" alt="sindico-image" width="45%" />
   <img src="assets/funcionario.png" alt="funcionario-image" width="45%" />
 </p>
 
